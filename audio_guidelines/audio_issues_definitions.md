@@ -1,7 +1,13 @@
-Voice Clipping: Partial truncation of words, recovered
+## 🎙 Audio QA Definitions
 
-Voice Cutoff: Audio stops entirely without recovery
+<details>
+<summary>Voir les définitions des problèmes audio ⚠️</summary>
 
-Stopped Responding: Model silent for >3 seconds
+| Issue | Definition |
+|-------|------------|
+| Voice Clipping | Partial truncation of words; audio recovers afterward |
+| Voice Cutoff | Audio stops entirely without recovery |
+| Stopped Responding | Model silent for more than 3 seconds |
+| Interruptions | Not an issue unless ignored by the model |
 
-Interruptions: Not an issue unless ignored by model
+</details>
