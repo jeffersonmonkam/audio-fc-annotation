@@ -1,0 +1,4 @@
+- Delayed response > 5 sec in some instances
+- No accent issues
+- Wrong parameters once (book_appointment time mismatch)
+- Missed function call: check_insurance_eligibility for P002
