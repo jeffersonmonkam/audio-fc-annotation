@@ -2,8 +2,9 @@
 Audio-based evaluation of LLM function calling behavior with structured QA methodology
 
 ## Project Overview
-Evaluate AI assistant function calls triggered by voice input.
-Record 4–8.5 minutes of conversation and verify if the model calls the right functions.
+This project focuses on evaluating AI assistant function calls triggered by voice input. 
+Record 4–8.5 minutes of conversation and verify if the model calls the right functions at the correct times.
+
 
 ## Goals
 - Verify function calls are correct and timely
