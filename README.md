@@ -1,9 +1,5 @@
 # 🎧 Audio FC Annotation
-Audio-based evaluation of LLM function calling behavior with structured QA methodology
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)  
-
+Audio-based evaluation of LLM function calling behavior with structured QA methodolog
 
 Duration: 5–7 minutes
 Language: English
